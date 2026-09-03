@@ -1,0 +1,2 @@
+Synthetic pull request body for paused-queue testing.
+Canary: PR3 pause baseline object.
