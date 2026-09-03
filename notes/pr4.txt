@@ -1,0 +1,2 @@
+Synthetic pull request body for queue-pause reproduction.
+Canary: PR4 reproduction object.
