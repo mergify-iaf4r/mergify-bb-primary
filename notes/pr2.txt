@@ -1,0 +1,2 @@
+Synthetic pull request body for Mergify queue workflow testing.
+Canary: PR2 baseline object.
