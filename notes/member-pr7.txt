@@ -1,0 +1,2 @@
+Member-authored PR for Mergify paused-queue cross-role testing.
+Canary: MEMBER-PR7.
