@@ -1,0 +1,2 @@
+Synthetic pull request body for freeze-after-checks-start testing.
+Canary: PR6 freeze reproduction object.
